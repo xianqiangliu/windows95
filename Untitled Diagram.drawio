@@ -1,1 +1,96 @@
-<mxfile host="www.draw.io" modified="2020-01-19T09:57:57.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ufDaW8JeWx2txS84mEMb" version="12.5.5" type="github"><diagram id="vGNdvMIG6XR12b-L_Hd-" name="Page-1">7VpLc6M4EP41OmYKIZ5HwHh3qzJbU5vDbI4aI9vUyMiF5djeX78SiJfANvFjJkkllYPUajWo++uH2gAUrfZ/5Hi9/MoSQoFpJHuAJsA0oWGaQP4byaGkPLiWX1IWeZoorobwlP5Hqq2Kuk0TsukwcsYoT9dd4oxlGZnxDg3nOdt12eaMdp+6xgvSIzzNMO1Tv6cJX5ZUz3Qb+p8kXSyrJ0NHnW+FK2Z1ks0SJ2zXIqEYoChnjJej1T4iVGqv0ku5b3pktX6xnGR8zIavL8H31dZ+9g8vf9Od8YjxX48PyjwvmG7VgUHsgjAEYQRiG/gG8Dw58BwQIrkUTIDvFDxIspXM/lQdkR8qvYnTruVwu6KP6ZzQNBOzcE3ydEU4ycUKVeRvDS3cLVNOntZ4JrfuBKQEbclXVMygGAojcyy25PWcUrzepD+KpxqCkpPZNt+kL+QfsimxJKlsy+WTohojkjhPKY0YZXnxwmha/Am60gjJOdkfVTWsDSigT5h4//wgWGrcK5sr1EPTUoRdg6GaadnCj12hBSvcLmrhjWnFQFn3FZaGXt/UutFaql6zNOPFO9ghsCea7VjOl2zBMkzb1rtKo8fheVTNlt3Rsjek476KoXMvFZtD3iR8Zwp8CGIPhDYI3ZBigUs5E75VuJRvgcA7ZQupuVSEpICmi0zQfjDO2UoskCwJZIyTNMpmP8/agCS9aHeZBVo6rtSeE4q58LxuCB7QsZL2TSKsMabddRlfM9KGbfMZUXvaUU4TY3r2STkc5wvCe3IKe9fnuxwCyPnoXjbazeC93KwfyJRP9dLUZ1Jq2RFZby8pmegduot3h6Skh6mbaRgZAznJB4FTlHEOCCIQwBGuIzPHk5o2io4batslsEpUlMzF+cKN8J00WzwWs4k5nLhyts0Skig/IPuU/yvHX1zHVfNnMX8wvhgQKsJk3+KeHFqTFgBKWiZ0WcrzS3mS8FwQLNerCI3AYnZoz3SRt060VQVQ5LkRLlMmsrOMR3EqFGl6TgerD/ZtUrljDLrAmVQuAIEPLTbl7McLBjT0lGN1AbQGX2osO1SBqXHF8nWHd3vDm88VIY2cipHN5xtyn0LF/eiR9/cXKv5A6LVBYBWh15fVv6j7RQz2bXkZEANvAoJYDsIAVBnhs3xR7u68vfIFvcfyxX+NE0F3nBPpMf52Kh66U4vL81Rem2WHKgR+PHCdPuFWsmcVFT5Y3M1D95TNxty92ZqIpTDBm2VRwMByWTUzveuKharpeS7dwyPB8cpcjvRchi69mUPdgXuS7n03twagJCpgA4R+BybjgTOAu9cEeEmJQWArgQG6Fok36AKNxRs6XV6KQl0EXrcXPG7ULYJauwha1oWwRK59RtJbqNbsUVFwDPbKhj0qlmLgR5/B7zjKHEPHhnspyvQw2pN07+A30P5X4ccr8CLCGByHoKmMgl70nlrbp0tLeRWG6JeFKvviUKX1tvuS3kKoGr716D8g2hJKsvMkYOXLBKyD5LPhdLuG03n436kTVJd4NWL1u9iNmkEDD4Infcly3Ws3OEjzn1MtIeSb+nbrzfluFU7OlhkDnwN8vKKi/C3vDjcqLYo7xq1uVD1JFxcVYtp8mVKyNx/4oPh/</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-19T10:07:27.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ptSDuaALcPZyvwawJQ9s" version="12.5.5" type="github">
+  <diagram id="vGNdvMIG6XR12b-L_Hd-" name="Page-1">
+    <mxGraphModel dx="1385" dy="-448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-2" value="综合决策系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFFF00;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1240" width="100" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFF00;" parent="MvAWmu5Y9yvNlw0LaaIL-2" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-22" value="发起Blaze调用" style="html=1;verticalAlign=bottom;endArrow=block;fillColor=#FFFFFF;" parent="MvAWmu5Y9yvNlw0LaaIL-2" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="90" as="sourcePoint"/>
+            <mxPoint x="285" y="90" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFF00;" parent="MvAWmu5Y9yvNlw0LaaIL-2" vertex="1">
+          <mxGeometry x="45" y="280" width="10" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-8" value="Blaze决策" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFFF00;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1240" width="100" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFF00;" parent="MvAWmu5Y9yvNlw0LaaIL-8" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-30" value="首次决策" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=0.767;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.967;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#FFFFFF;" parent="MvAWmu5Y9yvNlw0LaaIL-8" source="MvAWmu5Y9yvNlw0LaaIL-23" target="MvAWmu5Y9yvNlw0LaaIL-23" edge="1">
+          <mxGeometry x="0.0286" y="-50" relative="1" as="geometry">
+            <mxPoint x="60" y="80" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="53" y="80"/>
+              <mxPoint x="140" y="80"/>
+              <mxPoint x="140" y="122"/>
+            </Array>
+            <mxPoint x="80" y="122" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFF00;" parent="MvAWmu5Y9yvNlw0LaaIL-8" vertex="1">
+          <mxGeometry x="45" y="280" width="10" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-9" value="外部数据源" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFFF00;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1240" width="100" height="520" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFF00;" parent="MvAWmu5Y9yvNlw0LaaIL-9" vertex="1">
+          <mxGeometry x="45" y="170" width="10" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-32" value="返回调用数据源编号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fillColor=#FFFFFF;" parent="1" target="MvAWmu5Y9yvNlw0LaaIL-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1390" as="sourcePoint"/>
+            <mxPoint x="160" y="1390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-34" value="根据数据源编号调用外部数据源接口" style="html=1;verticalAlign=bottom;endArrow=block;fillColor=#FFFFFF;" parent="1" target="MvAWmu5Y9yvNlw0LaaIL-33" edge="1">
+          <mxGeometry x="-0.2527" width="80" relative="1" as="geometry">
+            <mxPoint x="150" y="1440" as="sourcePoint"/>
+            <mxPoint x="375" y="1440" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-35" value="返回外部数据结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fillColor=#FFFFFF;" parent="1" target="MvAWmu5Y9yvNlw0LaaIL-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="1470" as="sourcePoint"/>
+            <mxPoint x="380" y="1470" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-38" value="推送外部数据，发起Blaze调用" style="html=1;verticalAlign=bottom;endArrow=block;fillColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry x="0.0213" width="80" relative="1" as="geometry">
+            <mxPoint x="150" y="1540" as="sourcePoint"/>
+            <mxPoint x="385" y="1540" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-39" value="决策审批" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=0.767;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.967;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry x="0.0286" y="-50" relative="1" as="geometry">
+            <mxPoint x="390" y="1520" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="390" y="1521"/>
+              <mxPoint x="477" y="1521"/>
+              <mxPoint x="477" y="1563"/>
+            </Array>
+            <mxPoint x="392" y="1564" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvAWmu5Y9yvNlw0LaaIL-40" value="返回决策结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fillColor=#FFFFFF;" parent="1" target="MvAWmu5Y9yvNlw0LaaIL-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="1600" as="sourcePoint"/>
+            <mxPoint x="160" y="1600" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
